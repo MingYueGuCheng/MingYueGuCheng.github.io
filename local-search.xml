@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Mac常用命令</title>
+    <link href="/2022/05/24/mac/control/"/>
+    <url>/2022/05/24/mac/control/</url>
+    
+    <content type="html"><![CDATA[<h3 id="通过命令用app打开指定文件"><a href="#通过命令用app打开指定文件" class="headerlink" title="通过命令用app打开指定文件"></a>通过命令用app打开指定文件</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs 用Safari打开目标文件">MingYueGuCheng$ open 目标文件.log -a /Applications/Safari.app <br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>IPA 重新签名</title>
     <link href="/2022/05/06/ios/ipa_resign/"/>
     <url>/2022/05/06/ios/ipa_resign/</url>
